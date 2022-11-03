@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://thumbs.gfycat.com/FatherlyLiveBetafish-max-1mb.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">From art direction to devops, developing the world with different angles.</div>  
   
 
 - 💅 I’m currently working on [Haskell Cosmetics](https://haskellcosmeticos.com.br/)  
@@ -99,13 +99,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31rxyralel4d5p3747lae4xdjz6e&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=eliykuma&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
