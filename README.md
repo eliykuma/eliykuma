@@ -6,7 +6,7 @@
 ### <div align="center">From art direction to devops, developing the world with different angles.</div>  
   
 
-- 💅 I’m currently working on [Haskell Cosmetics](https://haskellcosmeticos.com.br/)  
+- 🎓 I’m currently study on [UEL-Universidade Estadual de Londrina](https://portal.uel.br/home/)  
   
 
 - 🎓 Currently learning about Infra&Devops  
